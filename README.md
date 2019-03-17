@@ -3,13 +3,12 @@
 
 ## Project Name
 
-### Author: Anthony & Karl
+### Author: Anthony, Lorin & Karl
 
 ### Links and Resources
-* [repo](https://github.com/polink/lab-11-401n12-JS)
+* [repo](https://github.com/polink/lab-12-backend-401n12-JS-ATKPLS)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [front-end](https://github.com/polink/lab-12-frontend-401n12-JS-ATKPLS)
 
 ### Modules
 #### `modulename.js`
@@ -25,6 +24,9 @@ Usage Notes or examples
 #### `.env` requirements
 * `PORT` - Port Number
 * `MONGODB_URI` - URL to the running mongo instance/db
+* `SECRET` - URL to the running mongo instance/db
+* `CLIENT_ID` - URL to the running mongo instance/db
+* `CLIENT_SECRET` - URL to the running mongo instance/db
 
 #### Running the app
 * `npm start`
