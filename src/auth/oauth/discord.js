@@ -4,8 +4,8 @@ const superagent = require('superagent');
 const Users = require('../users-model.js');
 
 const API = 'http://localhost:3000';
-const discordAuth = 'https://discordapp.com/api/oauth2/authorize';
-const SERVICE = 'https://discordapp.com/api/oauth2/token';
+const discordAuth = 'https://discordapp.com/api/oauth2/token';
+const SERVICE = 'https://discordapp.com/api/users/@me';
 
 let authorize = (request) => {
 
