@@ -4,9 +4,9 @@
 ## OAuth Provider Name: Discord
 
 ### Research Conducted By:
-*Anthony Triplett,
-*Karl Polintan,
-*Lorin Stewart
+* Anthony Triplett,
+* Karl Polintan,
+* Lorin Stewart
 
 ### Overall Score and Comments
 #### Score (Out of 10): 7
